@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisVM", "VisVM\VisVM.csproj", "{4247F97C-11E6-44C0-BC63-8345DCFD2CB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisVM.UI", "VisVM.UI\VisVM.UI.csproj", "{3B3F0A49-079B-4681-9BC2-3E5C620AF806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4247F97C-11E6-44C0-BC63-8345DCFD2CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4247F97C-11E6-44C0-BC63-8345DCFD2CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4247F97C-11E6-44C0-BC63-8345DCFD2CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4247F97C-11E6-44C0-BC63-8345DCFD2CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3F0A49-079B-4681-9BC2-3E5C620AF806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3F0A49-079B-4681-9BC2-3E5C620AF806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3F0A49-079B-4681-9BC2-3E5C620AF806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3F0A49-079B-4681-9BC2-3E5C620AF806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA82114D-BD02-401E-8077-D8268CCEB97F}
+	EndGlobalSection
+EndGlobal
